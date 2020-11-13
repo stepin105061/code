@@ -1,6 +1,4 @@
-OVERVIEW
-
-  The School billing system project in C keeps record of all the students, techers and staffs working in the institution. The progfram is run by the administrator who can add, record, modify, delete and find records according to the need. The basic feature of this project is that it shows fees that the students need to pay or dues and advance of students. It is also records the information related to salary that is to be provided to teachers and staffs working in the organisation.
+The School billing system project in C keeps record of all the students, techers and staffs working in the institution. The progfram is run by the administrator who can add, record, modify, delete and find records according to the need. The basic feature of this project is that it shows fees that the students need to pay or dues and advance of students. It is also records the information related to salary that is to be provided to teachers and staffs working in the organisation.
   
 The data within the program can be recorded by the onput of current month and date. The administrator will need to select the type of account for either student or teachers and can perform the billing operation as per the requirements.
 
